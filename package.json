@@ -4,7 +4,8 @@
   "description": "trueblogger is my personal portfolio website.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava *.test.js --verbose",
+    "test:watch": "ava *.test.js --verbose --watch "
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/venkiplus/trueblogger.in/issues"
   },
-  "homepage": "https://github.com/venkiplus/trueblogger.in#readme"
+  "homepage": "https://github.com/venkiplus/trueblogger.in#readme",
+  "devDependencies": {
+    "ava": "^0.20.0"
+  }
 }
