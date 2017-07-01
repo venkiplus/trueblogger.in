@@ -1,3 +1,5 @@
+'use strict';
+
 import test from 'ava';
 function getAuthorName(){
   return "venkatesh mamidipalli";
