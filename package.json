@@ -1,0 +1,19 @@
+{
+  "name": "trueblogger.in",
+  "version": "1.0.0",
+  "description": "trueblogger is my personal portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkiplus/trueblogger.in.git"
+  },
+  "author": "Venkatesh Mamidipalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkiplus/trueblogger.in/issues"
+  },
+  "homepage": "https://github.com/venkiplus/trueblogger.in#readme"
+}
